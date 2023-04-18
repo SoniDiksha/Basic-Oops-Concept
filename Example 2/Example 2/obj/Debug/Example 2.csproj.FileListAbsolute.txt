@@ -1,0 +1,8 @@
+C:\Diksha Sample code\Example 2\Example 2\bin\Debug\Example 2.exe.config
+C:\Diksha Sample code\Example 2\Example 2\bin\Debug\Example 2.exe
+C:\Diksha Sample code\Example 2\Example 2\bin\Debug\Example 2.pdb
+C:\Diksha Sample code\Example 2\Example 2\obj\Debug\Example 2.csproj.AssemblyReference.cache
+C:\Diksha Sample code\Example 2\Example 2\obj\Debug\Example 2.csproj.SuggestedBindingRedirects.cache
+C:\Diksha Sample code\Example 2\Example 2\obj\Debug\Example 2.csproj.CoreCompileInputs.cache
+C:\Diksha Sample code\Example 2\Example 2\obj\Debug\Example 2.exe
+C:\Diksha Sample code\Example 2\Example 2\obj\Debug\Example 2.pdb

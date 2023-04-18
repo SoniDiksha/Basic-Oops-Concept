@@ -1,0 +1,11 @@
+C:\Diksha Sample code\Example1\Example1\bin\Debug\Example1.exe.config
+C:\Diksha Sample code\Example1\Example1\bin\Debug\Example1.exe
+C:\Diksha Sample code\Example1\Example1\bin\Debug\Example1.pdb
+C:\Diksha Sample code\Example1\Example1\obj\Debug\Example1.csproj.AssemblyReference.cache
+C:\Diksha Sample code\Example1\Example1\obj\Debug\Example1.csproj.SuggestedBindingRedirects.cache
+C:\Diksha Sample code\Example1\Example1\obj\Debug\Example1.csproj.CoreCompileInputs.cache
+C:\Diksha Sample code\Example1\Example1\obj\Debug\Example1.exe
+C:\Diksha Sample code\Example1\Example1\obj\Debug\Example1.pdb
+C:\Diksha Sample code\Example1\Example1\bin\Debug\DemoClassLibrary.dll
+C:\Diksha Sample code\Example1\Example1\bin\Debug\DemoClassLibrary.pdb
+C:\Diksha Sample code\Example1\Example1\obj\Debug\Example1.csproj.CopyComplete

@@ -1,0 +1,6 @@
+C:\Diksha Sample code\Example1\DemoClassLibrary\bin\Debug\DemoClassLibrary.dll
+C:\Diksha Sample code\Example1\DemoClassLibrary\bin\Debug\DemoClassLibrary.pdb
+C:\Diksha Sample code\Example1\DemoClassLibrary\obj\Debug\DemoClassLibrary.csproj.AssemblyReference.cache
+C:\Diksha Sample code\Example1\DemoClassLibrary\obj\Debug\DemoClassLibrary.csproj.CoreCompileInputs.cache
+C:\Diksha Sample code\Example1\DemoClassLibrary\obj\Debug\DemoClassLibrary.dll
+C:\Diksha Sample code\Example1\DemoClassLibrary\obj\Debug\DemoClassLibrary.pdb
